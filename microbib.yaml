@@ -1,0 +1,53 @@
+---
+abstract:
+- lang: fr
+  text: "Cet article est très bon."
+  text_f: "Cet article est très bon."
+- lang: en
+  text: 'This paper is very good.'
+  text_f: 'This paper is very good.'
+authors:
+- forename: Pierre
+  surname: Langevin
+  orcid: 0000-0003-1599-221X
+- forename: Jean
+  surname: Valjean
+  orcid: 0007-0007-1597-227X
+bibliography:
+date: 2022/12/19
+day: '19'
+month: '12'
+year: '2022'
+director:
+- foaf: ''
+  forename: ''
+  gender: ''
+  isni: ''
+  orcid: ''
+  surname: ''
+  viaf: ''
+dossier:
+- id: ''
+  title: ''
+  title_f: ''
+keywords:
+- lang: fr
+  list: "linguistique, sémantique, intelligence collective, intelligence artificielle"
+  list_f: "linguistique, sémantique, intelligence collective, intelligence artificielle"
+- lang: en
+  list: "linguistics, semantics, collective intelligence, artificial intelligence"
+  list_f: "linguistics, semantics, collective intelligence, artificial intelligence"
+lang: fr
+link-citations: true
+nocite: '@*'
+rights: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+title: "Calculer avec KML"
+title_f: "Calculer avec KML"
+translations:
+- lang: ''
+  titre: ''
+  url: ''
+translator:
+- forename: 'Minnie'
+  surname: 'Souris'
+--- 
